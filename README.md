@@ -1,5 +1,5 @@
 # Hippodrome
-<h2>What is this?</h2>
+
 <p>Wager against your friends and pretend it's 1980 with this text-based horse racing simulation.</p>
 <h2>Running the program</h2>
 <p>This repository is an IntelliJ IDEA project, so it can be opened and run within the IDE.  It can also be run from the command line:</p>
